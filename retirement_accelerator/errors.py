@@ -1,0 +1,2 @@
+class RetirementAcceleratorError(Exception):
+    pass
