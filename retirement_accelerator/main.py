@@ -1,11 +1,3 @@
-# Retirement Accelerator
-Retirement Accelerator is a toolkit aims to filter ETFs with specific rules and indicators easily.
-
-The project use [EODHD APIs](https://eodhistoricaldata.com/) as data vendor, please fill in your API keys in `.env` file.
-
-# Getting Started
-
-```python
 import asyncio
 from typing import Any
 
@@ -32,5 +24,3 @@ async def main():
 
 
 asyncio.run(main())
-
-```
